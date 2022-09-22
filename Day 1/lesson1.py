@@ -15,3 +15,5 @@ print(type(uyvars_magari_mankanebi))
 print(name + " " + surname + " " + "aris" + " " + str(age) + " " + "wlis da" + " " + str(height) + " " + "santimetris, romlis hobia jazzi da wignebis kitxva. mas ar uyavrs magari mankanebi")
 
 #amis martivad dawera asec sheilebhoda :P - print("Nika Khotcholava aris 25 wlis da 184.3 santimetris, romlis hobia jazzi da wignebis kitxva. maas ar uuyavrs magari mankanebi")
+
+
