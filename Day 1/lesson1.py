@@ -17,3 +17,21 @@ print(name + " " + surname + " " + "aris" + " " + str(age) + " " + "wlis da" + "
 #amis martivad dawera asec sheilebhoda :P - print("Nika Khotcholava aris 25 wlis da 184.3 santimetris, romlis hobia jazzi da wignebis kitxva. maas ar uuyavrs magari mankanebi")
 
 
+
+
+#ყველა სტრინგი შეგვიძლია აღვიქვათ სიად
+
+print(name[0])
+
+#ათვლა იწყება 0-დან
+#index და position არის სინონიმები
+full_name = "nika keshelava"
+
+print( full_name [7])
+
+
+
+#ყველა სტრინგი არის ჩამოჭრადი
+
+print(full_name[2:7])
+
